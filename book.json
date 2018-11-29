@@ -1,0 +1,13 @@
+{
+    "title": "Test",
+    "description": "Test",
+    "plugins": [
+        "bulk-redirect"
+    ],
+    "pluginsConfig": {
+        "bulk-redirect": {
+            "basepath": "/",
+            "redirectsFile": "redirects.json"
+        }
+    }
+}
